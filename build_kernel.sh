@@ -8,7 +8,7 @@
 #   		\_______|    |__|\___|
 ##########################################
 export ARCH=arm
-export CROSS_COMPILE=/home/francesco/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-
+export CROSS_COMPILE=/home/francesco/arm-eabi-4.9/bin/arm-eabi-
 ##########################################
 mkdir output
 ##########################################
